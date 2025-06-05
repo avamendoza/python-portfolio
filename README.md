@@ -24,3 +24,15 @@ Project 5: Number guesser
   - If/else statements
   - Strings
   - Random.randint
+Project 6: Dod breeds
+- This project gives the user a list of dog breeds that have the weight of the users desired input.
+  *Key Features
+  - If/ else statements
+  - Lists
+  - Len functions
+Prokect 7: Tetris 
+- This project creates the average score of the given tetris scores
+*Key Features
+  - Lists
+  - If statements
+  - Loop
