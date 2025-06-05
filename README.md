@@ -30,7 +30,7 @@
   - If/ else statements
   - Lists
   - Len functions
-Prokect 7: Tetris 
+###Prokect 7: Tetris 
 - This project creates the average score of the given tetris scores
 *Key Features
   - Lists
